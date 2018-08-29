@@ -25,4 +25,4 @@ weight = 5
 
 # Biography
 
-Shucheng Yang is a Phd student in University of Chinese Academy of Sciences. His research interests include astronomy, general relativity and numerical analysis. He is a member of Prof. Wenbiao Han's Group in Shanghai Astronomical Observatory, which studies gravitational wave and relativistic fundamental astronomy.
+Shucheng Yang is a PhD student in University of Chinese Academy of Sciences. His research interests include astronomy, general relativity and numerical analysis. He is a member of Prof. Wenbiao Han's Group in Shanghai Astronomical Observatory, which studies gravitational wave and relativistic fundamental astronomy.
