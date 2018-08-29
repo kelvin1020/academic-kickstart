@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "PhD student"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -63,20 +63,20 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Shucheng Yang"
+  role = "Phd Student of Astronomy"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "University of Chinese Academy of Sciences", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "ysc@shao.ac.cn"
+  address = "80 Nandan Road, Shanghai 200030, China"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  phone = " "
+  skype = " "
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -332,14 +332,14 @@ enableGitInfo = false
 [languages.en]
   languageCode = "en-us"
 
-# Uncomment the lines below to configure your website in a second language.
-#[languages.zh]
-#  languageCode = "zh-Hans"
-#  title = "Chinese website title..."
-#  [languages.zh.params]
-#    name = "Your name in Chinese..."
-#    role = "Your role in Chinese..."
-#  [[languages.zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+Uncomment the lines below to configure your website in a second language.
+[languages.zh]
+  languageCode = "zh-Hans"
+  title = "博士研究生"
+  [languages.zh.params]
+    name = "杨舒程"
+    role = "中国科学院大学博士研究生"
+  [[languages.zh.menu.main]]
+    name = "Wo"
+    url = "#about"
+    weight = 1
